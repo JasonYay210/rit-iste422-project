@@ -70,3 +70,4 @@ public class EdgeConnector {
       isEP2Table = value;
    }
 }
+// edit

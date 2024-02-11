@@ -1298,3 +1298,4 @@ public class EdgeConvertGUI {
       } // EdgeMenuListener.actionPerformed()
    } // EdgeMenuListener
 } // EdgeConvertGUI
+// edit

@@ -272,3 +272,4 @@ public class ExampleFileFilter extends FileFilter {
 	return useExtensionsInDescription;
     }
 }
+// edit
